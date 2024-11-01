@@ -14,7 +14,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class PandevBotApplication {
 
     /**
-     * Точка входа в приложение.
+     * Точка входа в приложение..
      *
      * @param args аргументы командной строки, переданные при запуске приложения
      */
